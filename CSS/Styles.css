@@ -1,0 +1,31 @@
+body{
+    background-color: sandybrown;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 75px;
+    text-align: center;
+    text-decoration: underline;
+    color:wheat;
+    margin: 0;
+   
+}
+
+
+.header{
+    display: block;
+    width: 100%;
+    background-image: url("../Images/Business.jpg");
+    height: 150px;
+    
+}
+
+
+.content{
+    display: block;
+    width: 50%;
+    background-color: blanchedalmond;
+    min-height: 2000px;
+}
