@@ -45,6 +45,16 @@ h4{
 }
 
 
+h7{
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    
+
+   
+}
+
+
 .header1{
     display: block;
     width: 100%;
@@ -131,4 +141,39 @@ ul li{
     width: 14%;
     text-align: center;
     text-decoration: none;
+}
+
+
+
+.box1{ background-color:greenyellow;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+text-align: center}
+
+.box2{ background-color: crimson; font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+text-align: center;
+color: gold;
+}
+
+
+.box3{ background-color:gold;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+text-align: center}
+
+
+.box4{ background-color:purple;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    text-align: center;
+    color: gold;
+}
+
+
+.box5{ background-color:blue;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    text-align: center;
+    color: gold;
 }
