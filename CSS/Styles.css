@@ -13,19 +13,122 @@ h1{
    
 }
 
+h2{
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color:wheat;
+    margin: 0;
+   
+}
 
-.header{
+
+
+h3{
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 20px; 
+    color:wheat;
+    margin: 0;
+   
+}
+
+
+
+h4{
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    color:wheat;
+    margin: 0;
+   
+}
+
+
+.header1{
     display: block;
     width: 100%;
     background-image: url("../Images/Business.jpg");
-    height: 150px;
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 600px;
+  
+    
     
 }
 
 
-.content{
+.content1{
+    display: block;
+    width: 33%;
+    float: left;
+    background-color: darksalmon;
+    height: 1000px;
+}
+
+.content2{
+    display: block;
+    width: 33%;
+    float: left;
+    background-color: peru;
+    height: 1000px;
+  
+}
+
+.content3{
+    display: block;
+    width: 33%;
+    float: left;
+    background-color: coral;
+    height: 1000px;
+}
+
+
+.infoBox{
     display: block;
     width: 50%;
-    background-color: blanchedalmond;
-    min-height: 2000px;
+    float: left;;
+    background-color: coral;
+    height: 500px;
+
+}
+
+.infoPic{
+    display: block;
+    width: 50%;
+    float: left;
+    background-color:chocolate;
+    height: 500px;
+
+}
+
+
+ul{
+    list-style: none;
+    background-color: burlywood;
+    top:0;
+    position: fixed;
+    width: 100%;
+    margin: 0;
+}
+ul li a{
+    display:block;
+    font-size: 30px;
+    width: 50%;
+    block-size: 0%;
+    color: darkred;
+    margin:0;
+}
+
+li a:hover{
+    background-color: crimson;
+    color: chartreuse;
+}
+
+ul li{
+    float: left;
+    width: 14%;
+    text-align: center;
+    text-decoration: none;
 }
