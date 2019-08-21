@@ -1,5 +1,6 @@
 body{
-    background-color: sandybrown;
+    background-color:lightsalmon;
+
     margin: 0;
 }
 
@@ -75,6 +76,7 @@ h7{
     float: left;
     background-color: darksalmon;
     height: 1000px;
+    text-align: center;
 }
 
 .content2{
@@ -82,7 +84,8 @@ h7{
     width: 33%;
     float: left;
     background-color: peru;
-    height: 1000px;
+    height: 1000px; 
+    text-align: center;
   
 }
 
@@ -92,7 +95,29 @@ h7{
     float: left;
     background-color: coral;
     height: 1000px;
+    text-align: center;
 }
+
+
+
+.content5{
+    display: block;
+    width: 60%;
+    float: left;
+    background-color: coral;
+    height: 10000px;
+    text-align: center;
+}
+
+.testingPic{
+
+        display: block;
+        width: 20%;
+        float: left;
+        
+        text-align: center;
+        
+    }
 
 
 .infoBox{
@@ -100,7 +125,8 @@ h7{
     width: 50%;
     float: left;;
     background-color: coral;
-    height: 500px;
+    height: 1000px;
+    text-align: center;
 
 }
 
@@ -109,7 +135,8 @@ h7{
     width: 50%;
     float: left;
     background-color:chocolate;
-    height: 500px;
+    height: 1000px;
+    text-align: center;
 
 }
 
@@ -145,12 +172,14 @@ ul li{
 
 
 
-.box1{ background-color:greenyellow;
+.box1{ background-color:cadetblue;
     font-family: 'Fredoka One', cursive;
     font-size: 20px;
+    color: gold;
 text-align: center}
 
-.box2{ background-color: crimson; font-family: 'Fredoka One', cursive;
+.box2{ background-color:plum;
+     font-family: 'Fredoka One', cursive;
     font-size: 20px;
 text-align: center;
 color: gold;
@@ -163,7 +192,7 @@ color: gold;
 text-align: center}
 
 
-.box4{ background-color:purple;
+.box4{ background-color:lightseagreen;
     font-family: 'Fredoka One', cursive;
     font-size: 20px;
     text-align: center;
@@ -171,9 +200,50 @@ text-align: center}
 }
 
 
-.box5{ background-color:blue;
+.box5{ background-color:greenyellow;
     font-family: 'Fredoka One', cursive;
     font-size: 20px;
     text-align: center;
-    color: gold;
+    
+}
+
+
+#failPic{
+    margin: auto;
+    display: block;
+}
+
+#gdprPic{
+    margin: auto;
+    display: block;
+}
+
+#gdprText{
+    color: midnightblue;
+    font-size: 30px;
+    font-family: 'Advent Pro', sans-serif;
+    text-align: center;
+}
+
+#rightsHead{
+    font: 40px;
+    color: brown;
+    font-family: 'Lalezar', cursive;
+
+}
+
+#rightsBody{
+    font-family: 'Pontano Sans', sans-serif;
+    font-size: 30px;
+    color: darkmagenta;
+
+}
+
+
+
+#textHeading{
+    color: maroon;
+    font-size: 40px;
+    font-family: 'Saira Stencil One', cursive;
+    text-decoration: underline;
 }
