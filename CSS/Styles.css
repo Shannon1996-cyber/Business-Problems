@@ -45,6 +45,22 @@ h4{
    
 }
 
+#copyR{
+
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+    color: crimson;
+   text-align: center;
+
+}
+
+#CopyR{
+    min-width: 40%;
+   float: left;
+
+}
+
 
 h7{
     font-family: 'Lexend Peta', sans-serif;
@@ -123,7 +139,7 @@ h7{
 .infoBox{
     display: block;
     width: 50%;
-    float: left;;
+    float: left;
     background-color: coral;
     height: 1000px;
     text-align: center;
