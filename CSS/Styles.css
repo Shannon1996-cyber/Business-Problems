@@ -263,3 +263,25 @@ text-align: center}
     font-family: 'Saira Stencil One', cursive;
     text-decoration: underline;
 }
+
+
+#CopyText{
+    color: maroon;
+    font-size: 40px;
+    font-family: 'Saira Stencil One', cursive;
+    float: left;
+}
+
+
+
+#DisHead{
+    color: dodgerblue;
+    font-size: 40px;
+    
+
+}
+
+#DisPic{
+    height: 600px;
+    width: 100%
+}
